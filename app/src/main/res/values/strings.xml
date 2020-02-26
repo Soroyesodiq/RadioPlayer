@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RadioPlayer</string>
+    <string name="media_url_mp3">"Enter the radio url"</string>
+    </resources>
